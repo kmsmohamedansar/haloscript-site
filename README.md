@@ -14,5 +14,5 @@ The application source lives separately and is not published here. This reposito
 
 ## Related links
 
-- [Live website](https://kmsmohamedansar.github.io/haloscript-site/)
+- [Live website](https://ansarbuilds.dev/haloscript-site/)
 - [Mohamed Ansar on GitHub](https://github.com/kmsmohamedansar)
