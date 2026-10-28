@@ -6,7 +6,7 @@ This repository contains the public website for **Haloscript**, a writing app fo
 
 Haloscript gives novel writers one place to draft, organize scenes, maintain a Story Bible, and sketch ideas on an open whiteboard. The website explains that experience for writers and prospective users.
 
-**Status:** Public product website. Haloscript itself is in active development.
+**Status:** Haloscript is live on the App Store.
 
 ## Privacy and repository boundaries
 
@@ -15,4 +15,5 @@ The application source lives separately and is not published here. This reposito
 ## Related links
 
 - [Live website](https://ansarbuilds.dev/haloscript-site/)
+- [Haloscript on the App Store](https://apps.apple.com/ca/app/haloscript/id6820670080)
 - [Mohamed Ansar on GitHub](https://github.com/kmsmohamedansar)
